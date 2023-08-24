@@ -15,8 +15,8 @@ public class arraysDemo {
 		String[] ogrenciler= new String[3];
 		ogrenciler[0]="Merve";
 		ogrenciler[1]="Engin";
-		ogrenciler[2]="Derin";
-		 
+		//ogrenciler[2]="Derin";
+		
 		for (int i =0;i<ogrenciler.length;i++) {
 			System.out.println(ogrenciler[i]);
 		}
