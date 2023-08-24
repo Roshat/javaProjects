@@ -12,7 +12,7 @@ public class methods {
 		for(int number : numbers) {
 			if(number==callNumber) {
 				isThere=true;
-				
+				break;
 			}
 		}
 		if(isThere) {
